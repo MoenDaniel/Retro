@@ -1,0 +1,35 @@
+footer {
+  background-color: #0A0A0A;
+  color: #444444;
+  padding: 7vh;
+  font-family: 'Ubuntu Mono', monospace;
+
+  position: relative;
+  bottom: 0;
+}
+
+#footer-header {
+  font-size: 1.5rem;
+}
+
+li {
+  list-style: none;
+  display: block;
+
+  font-size: 1rem;
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+footer a:link {
+  color: #444444;
+}
+
+footer a:visited {
+  color: #444444;
+}
+  
+
+footer a:hover {
+  color: #9898EC;
+  text-decoration: underline;
+}

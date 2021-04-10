@@ -1,0 +1,48 @@
+#admin-container{
+    background-color: #B2B2B2;
+    color: #333333;
+    margin: 0;
+}
+
+#admin-wrapper{
+    padding: 50px;
+}
+
+h2{
+    margin-bottom: 20px;
+}
+
+#admin-header{
+    padding: 20px;
+    text-align: center;
+}
+
+#admin-banner{
+    width: 100vw;
+}
+
+#admin-navbar{
+    background-color: #444444;
+}
+
+#admin-game-card{
+    color: #FFFFFF;
+    background-color: transparent;
+    border: none;
+    color: #333333;
+}
+
+.update-section{
+    margin-bottom: 30px;
+    position: sticky;
+    top: 50px;
+}
+
+.update-input{
+    margin-bottom: 20px;
+    width: 95%;
+}
+
+#delete-btn{
+    margin-top: 10px;
+}

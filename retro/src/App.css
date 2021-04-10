@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Ubuntu+Mono&display=swap');
+
+#main-container {
+  background-color: #000000;
+  color: white;
+}
+
+body{
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Press Start 2P', cursive;
+}
+
+h2 {
+  font-family: 'Press Start 2P', cursive;
+}
+
+h3 {
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+p{
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+button{
+  width: 100%;
+}
+
+#cards{
+  color: #FFFFFF;
+  background-color: transparent;
+  border: none;
+}
+
+#logo {
+  height: 50px;
+  margin: 0;
+  padding: 0;
+}

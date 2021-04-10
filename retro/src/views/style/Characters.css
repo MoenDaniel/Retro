@@ -1,0 +1,14 @@
+#characters-container {
+    padding-top: 2vh;
+}
+
+#characters {
+    padding-top: 30vh;
+    padding-left: 10vw;
+}
+
+#character-card{
+    color: #FFFFFF;
+    background-color: transparent;
+    border: none;
+}
